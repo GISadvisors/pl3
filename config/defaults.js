@@ -19,7 +19,7 @@ define({
   //Default configuration settings for the application. This is where you'll define things like a bing maps key,
   //default web map, default app color theme and more. These values can be overwritten by template configuration settings and url parameters.
   "appid": "", //"73909e939be34d2b931f0765ba3bf4a6",
-  "webmap": "14ab61d83557477daac4e36fae8c992e",
+  "webmap": "86f34924f6cc498ba37306b9e9aaeed5",
   "oauthappid": "arcgisWebApps", //"AFTKRmv16wj14N3z",
   //Group templates must support a group url parameter. This will contain the id of the group.
   //group: "",
@@ -28,7 +28,7 @@ define({
   "proxyurl": "",
   "bingKey": "", //Enter the url to your organizations bing maps key if you want to use bing basemaps
   //Defaults to arcgis.com. Set this value to your portal or organization host name.
-  "sharinghost": "www.arcgis.com",
+  "sharinghost": "www.fleming.maps.arcgis.com",
   // Define alt text for the map that can be read by screen readers
   "altMapText": null, // by default we'll read the web map snippet
   // Set splashModal to display a splash screen when the app loads
